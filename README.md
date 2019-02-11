@@ -1,11 +1,12 @@
 # javastructuralpatterns
-Examples of the seven Java Structural Patterns:
+Examples of eight Java Structural Patterns:
 
 - Adaptor
 - Bridge
 - Composite
 - Decorator
 - Facade
+- Filter
 - Flyweight
 - Proxy
 
