@@ -1,5 +1,5 @@
 # javastructuralpatterns
-Examples of eight Java Structural Patterns:
+Examples of Java Structural Patterns:
 
 - Adaptor
 - Bridge
